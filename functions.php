@@ -448,7 +448,6 @@ function bakery_shop_blog(){
 }
 endif;
 
-
 if( ! function_exists( 'bakery_shop_footer_credit' ) ) :
 /**
  * Footer Credits 
